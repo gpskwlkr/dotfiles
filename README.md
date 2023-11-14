@@ -2,23 +2,23 @@
 
 # What's configured
 
-- alacritty
+- [alacritty](alacritty)
   - Custom theme with nerd font
-- picom
+- [picom](picom)
   - Transparency
-- rofi
+- [rofi](rofi)
   - Custom theme
-- i3
+- [i3](i3)
   - vim movements
   - custom workspaces
   - custom colors/theme
-- i3blocks
+- [i3blocks](i3blocks)
   - CPU usage
   - RAM/SWAP usage
   - Disk usage
   - Local IP address
   - Volume indicator
-- nvim
+- [nvim](nvim)
   - [lazy.nvim](https://github.com/folke/lazy.nvim)
   - [bufferline](https://github.com/akinsho/bufferline.nvim)
   - [colorizer](https://github.com/norcalli/nvim-colorizer.lua)
