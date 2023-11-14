@@ -8,6 +8,8 @@
 
 # What's configured
 
+- [tmux](.tmux.conf)
+- [zsh](.zshrc)
 - [alacritty](alacritty)
   - Custom theme with nerd font
 - [picom](picom)
