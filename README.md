@@ -1,5 +1,11 @@
 <h1 align="center">...Dotfiles</h1>
 
+<div align="center">
+    <img alt="i3" src="https://img.shields.io/badge/i3-gray?style=flat-square&logo=i3" width="50" height="30">
+    <img alt="alacritty" src="https://img.shields.io/badge/alacritty-gray?style=flat-square&logo=alacritty" width="100" height="30">
+    <img alt="neovim" src="https://img.shields.io/badge/neovim-gray?style=flat-square&logo=neovim" width="100" height="30">
+</div>
+
 # What's configured
 
 - [alacritty](alacritty)
