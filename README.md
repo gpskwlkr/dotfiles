@@ -10,7 +10,7 @@
 
 - [tmux](.tmux.conf)
 - [zsh](.zshrc)
-- [alacritty](alacritty)
+- [kitty](kitty)
   - Custom theme with nerd font
 - [picom](picom)
   - Transparency
